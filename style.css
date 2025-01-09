@@ -314,11 +314,15 @@ section {
     gap: 2rem;
     margin-bottom: 2rem;
     margin-top: 2rem;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
 }
 
 .about-details-container {
     justify-content: center;
     flex-direction: column;
+    flex: 1;
 }
 
 .about-containers, .about-details-container {
@@ -346,7 +350,7 @@ section {
     border-color: var(--color-container-border);
     /*border-color: rgb(163, 163, 163); */
     text-align: center;
-    color:var(--black-color);
+    color: var(--black-color);
 }
 
 .section-container {
