@@ -12,6 +12,7 @@
 - Responsive Website Design (RWD)
 
 - Dark Mode theme button (top right)
+    - Website will remember which theme you had
 
 - Hamburger Menu (top right when on smaller screens such as a phone)
 
